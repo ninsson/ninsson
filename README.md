@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nina</h1>
+<h1 align="center">Hi 👋🏼, I'm Nina</h1>
 <h3 align="center">An IT student from Poland</h3>
 
 - 🔭 I’m currently working on [snake_ai](https://github.com/ziomciopoziomcio/snake_ai)
-- 👨‍💻 I'm studying @ Lodz University of Technology
+- 🧑🏻‍💻 I'm studying @ Lodz University of Technology
 
 
 <h3 align="left">Languages and Tools:</h3>
