@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [snake_ai](https://github.com/ziomciopoziomcio/snake_ai)
 - 🧑🏻‍💻 I'm studying @ Lodz University of Technology
-- 🤝🏼 Collaborating with @ziomciopoziomcio
+- 🤝🏼 Collaborating with [@ziomciopoziomcio](https://github.com/ziomciopoziomcio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
