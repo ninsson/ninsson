@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">An IT student from Poland</h3>
 
-- 🔭 I’m currently working on [autonomous-cars-env]([https://github.com/ziomciopoziomcio/snake_ai](https://github.com/ziomciopoziomcio/autonomous-cars-env))
+- 🔭 I’m currently working on [autonomous-cars-env](https://github.com/ziomciopoziomcio/autonomous-cars-env)
 - 🧑🏻‍💻 I'm studying @ Lodz University of Technology
 - 🤝🏼 Collaborating with [@ziomciopoziomcio](https://github.com/ziomciopoziomcio)
 
