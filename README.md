@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
-<h3 align="center">An CS student from Poland</h3>
+<h3 align="center">A CS student from Poland</h3>
 
 - 🔭 I’m currently working on [autonomous-cars-env](https://github.com/ziomciopoziomcio/autonomous-cars-env)
 - 🧑🏻‍💻 I'm studying @ Lodz University of Technology
