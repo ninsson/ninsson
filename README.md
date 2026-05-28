@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">A CS student from Poland</h3>
 
-- 🔭 I’m currently working on [autonomous-cars-env](https://github.com/ziomciopoziomcio/autonomous-cars-env)
+- 🔭 I’m currently working on [Smart-University-Scheduler][(https://github.com/ziomciopoziomcio/Smart-University-Scheduler)]
 - 🧑🏻‍💻 I'm studying @ Lodz University of Technology
 - 🤝🏼 Collaborating with [@ziomciopoziomcio](https://github.com/ziomciopoziomcio)
 
